@@ -1,0 +1,2 @@
+export let link='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6aDJzbW9zcHhuaXc3Zm1tMXJ0MHp1ajhvajRuNWVyOG1pOWdheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.webp';
+export let loading='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NtOXVia2FueDYybmxmODF4aGNhOHRmejlicmttOXVnNzY1cTM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MydKZ8HdiPWALc0Lqf/giphy.webp';

@@ -1,0 +1,39 @@
+.react{
+
+    width: 25px;
+    height: 25px;
+    margin-left: 320px;
+
+}
+.parent{
+    width: 350px;
+    height: 85px;
+    align-content:space-around;
+    align-items:center;
+    display: flex;
+    gap: 30px;
+
+    padding-left:9px;
+}
+.child1{
+    width: 150px;
+    height: auto;
+    align-content: center;
+    font-size: 13px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 7px;
+    border:solid black 1px;
+    }
+
+.child2{
+    width: 150px;
+    font-size: 13px;
+    height: auto;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 7px;
+    border:solid black 1px;
+    
+}
